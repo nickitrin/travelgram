@@ -19,6 +19,11 @@ header .container{
     color: var(--text-color-primary);
     margin-bottom: 8px;
 }
+#profile img{
+    height: 176px;
+    width: 176px;
+    object-fit: cover;
+}
 #profile p{
     font: var(--text-md);
 }
